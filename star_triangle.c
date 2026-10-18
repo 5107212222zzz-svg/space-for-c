@@ -1,3 +1,4 @@
+//第n行有n个*，遇到困难是如何在输出m和*这里也用到了for循环
 #include<stdio.h>
 int main() {
 
