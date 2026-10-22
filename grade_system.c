@@ -8,8 +8,6 @@ int highest(int length,int scores[]);
 int lowest(int length ,int scores[]);
 int main(){
 
-
-
 int n=0;
 
 //输入学生人数
