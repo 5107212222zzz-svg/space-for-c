@@ -9,7 +9,7 @@ int main() {
 		printf("%d %d ",a ,b);
 
 	}
-	printf("There is overflow");
+	
 
 	return 0;
 }
