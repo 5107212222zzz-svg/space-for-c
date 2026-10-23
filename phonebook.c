@@ -19,7 +19,7 @@ int main ()
         //输入名字和数字
          printf ("Plesse enter all names(less than 100) and numbers\n");
 
-    scanf("%s %s",people[i].name,people[i].number);
+    scanf("%10s %10s",people[i].name,people[i].number);
 
       char str[]="over";
 
